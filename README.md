@@ -33,6 +33,8 @@
 <br>
 <br>
 
+---
+
 ## About Me
 
 I'm a Cybersecurity Engineering student focused on **Security Operations, Detection Engineering, and Threat Hunting**. My work centers on building production-style SOC environments end to end — log source engineering, correlation logic, enterprise dashboards, and automated alerting — rather than isolated tutorials or checklist projects.
