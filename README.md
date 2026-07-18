@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Security+Operations+%7C+Threat+Hunting;Detection+Engineering+%7C+Splunk+%7C+MITRE+ATT%26amp%3BCK;Blue+Team+%7C+Applied+AI+Security+Tooling" alt="Typing SVG" />
 
+
+<br>
+
+<img align="left" height="298" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0Yzlnc2xucXRnOGI3anJzYXlsbzhrZXZneDlka201Zm55Zng1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif"  />
+
 <br>
 
 ![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Cybersecurity-4B0082?style=flat-square&labelColor=1a0033)
@@ -25,7 +30,8 @@
 
 </div>
 
----
+<br>
+<br>
 
 ## About Me
 
