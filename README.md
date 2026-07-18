@@ -256,16 +256,6 @@ Designed, deployed, and operated a multi-host SOC environment end to end — fro
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=astephen-git&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
