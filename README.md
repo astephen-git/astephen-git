@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=220&section=header&text=Stephen%20A&fontSize=60&fontColor=E8DFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20SOC%20%26amp%3B%20Detection%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Security+Operations+%7C+Threat+Hunting;Detection+Engineering+%7C+Splunk+%7C+MITRE+ATT%26amp%3BCK;Blue+Team+%7C+Applied+AI+Security+Tooling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Security+Operations+%7C+Threat+Hunting;Detection+Engineering+%7C+Splunk+%7C+MITRE+ATT%26amp%3B;Blue+Team+%7C+Applied+AI+Security+Tooling" alt="Typing SVG" />
 
 
 <br>
@@ -68,6 +68,9 @@ I treat security like a software engineering discipline: rigorous architecture, 
 **Cloud, DevOps & Tooling**
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,aws,figma&theme=dark" />
 
+<br>
+<br>
+
 **Security & SOC Tooling**
 
 ![Splunk](https://img.shields.io/badge/Splunk-4B0082?style=flat-square&logo=splunk&logoColor=white&labelColor=1a0033)
@@ -83,7 +86,7 @@ I treat security like a software engineering discipline: rigorous architecture, 
 
 ---
 
-## AI / ML Expertise
+<!-- ## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -94,6 +97,8 @@ I treat security like a software engineering discipline: rigorous architecture, 
 | Applied Automation | Applied | Built production-grade, real-time email alerting pipelines (Gmail SMTP) triggered directly by detection logic |
 
 ---
+
+-->
 
 ## Featured Projects
 
@@ -188,7 +193,7 @@ A production-grade Android AI keyboard combining a custom input method engine wi
 
 ---
 
-## Experience
+<!-- ## Experience
 
 **Detection Engineer — Independent SOC Lab Initiative**
 *Self-Directed Security Research · 2025 – Present*
@@ -204,7 +209,7 @@ Designed, deployed, and operated a multi-host SOC environment end to end — fro
 
 **Skills:** `Splunk` `SPL` `MITRE ATT&CK` `Sysmon` `Suricata` `osquery` `Threat Hunting` `Detection Engineering`
 
----
+--- 
 
 ## Achievements
 
@@ -252,6 +257,8 @@ Designed, deployed, and operated a multi-host SOC environment end to end — fro
 </div>
 
 ---
+
+-->
 
 ## GitHub Analytics
 
@@ -323,7 +330,7 @@ current_focus:
 
 </div>
 
----
+
 
 <div align="center">
 
