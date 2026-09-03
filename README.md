@@ -1,28 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=220&section=header&text=Stephen%20A&fontSize=60&fontColor=E8DFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20SOC%20%26amp%3B%20Detection%20Engineering&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=220&section=header&text=Stephen%20A&fontSize=60&fontColor=E8DFFF&animation=fadeIn&fontAlignY=35&" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Security+Operations+%7C+Threat+Hunting;Detection+Engineering+%7C+Splunk+%7C+MITRE+ATT%26amp%3B;Blue+Team+%7C+Applied+AI+Security+Tooling" alt="Typing SVG" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Stephen A — profile.sh --live" src="assets/banner-dark.svg">
+</picture>
 
-<br>
-
-<img align="left" height="298" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p0Yzlnc2xucXRnOGI3anJzYXlsbzhrZXZneDlka201Zm55Zng1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif"  />
-
-<br>
-
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Cybersecurity-4B0082?style=flat-square&labelColor=1a0033)
-![GradYear](https://img.shields.io/badge/Class%20of-2027-6A0DAD?style=flat-square&labelColor=1a0033)
-![Location](https://img.shields.io/badge/Location-Sivakasi%2C%20India-8A2BE2?style=flat-square&labelColor=1a0033)
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-astephen--git-1a0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/astephen-git)
-
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=astephen-git&color=8a2be2&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/astephen-git?color=6A0DAD&style=flat-square&label=Followers)
@@ -30,27 +17,16 @@
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 ## About Me
+
+<img align="left" height="298" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdqNTNldzZ4djZ4dnJ6a3VjeGc1Y3NocDlwZ3UxcHNyN2dlbTlwbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pGVrRLHRzoRcQ/giphy.gif"  />
 
 I'm a Cybersecurity Engineering student focused on **Security Operations, Detection Engineering, and Threat Hunting**. My work centers on building production-style SOC environments end to end — log source engineering, correlation logic, enterprise dashboards, and automated alerting — rather than isolated tutorials or checklist projects.
 
 I treat security like a software engineering discipline: rigorous architecture, measurable performance, and documentation that another engineer could actually pick up and run with. Alongside blue-team work, I build full-stack and AI-integrated applications, and I use LLM tooling as a first-class part of the modern security engineer's workflow — from prompt-driven automation to natural-language SOC operations.
 
-**Currently focused on:**
-- Designing enterprise-grade SIEM dashboards and detection content in Splunk
-- Mapping adversary behavior to MITRE ATT&CK through live attack simulation
-- Applying AI/LLM tooling to accelerate security research and operations
-- Exploring the Model Context Protocol (MCP) for AI-driven SOC workflows
-
-### Open To
-`Network Security Analyst` · `SOC Analyst` · `Threat Hunter` · `Detection Engineer` · `Freelance Security Consulting`
 
 ---
 
