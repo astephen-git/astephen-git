@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=220&section=header&text=Stephen%20A&fontSize=60&fontColor=E8DFFF&animation=fadeIn&fontAlignY=35&" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=180&section=header&text=Stephen%20A&fontSize=40&fontColor=E8DFFF&animation=fadeIn&fontAlignY=35&" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=B389FF&center=true&vCenter=true&width=650&lines=Security+Operations+%7C+Threat+Hunting;Detection+Engineering+%7C+Splunk+%7C+MITRE+ATT%26amp%3B;Blue+Team+%7C+Applied+AI+Security+Tooling" alt="Typing SVG" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
