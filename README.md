@@ -20,11 +20,20 @@
 
 ## About Me
 
-<img align="left" height="298" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdqNTNldzZ4djZ4dnJ6a3VjeGc1Y3NocDlwZ3UxcHNyN2dlbTlwbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pGVrRLHRzoRcQ/giphy.gif"  />
+<table>
+<tr>
+<td width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdqNTNldzZ4djZ4dnJ6a3VjeGc1Y3NocDlwZ3UxcHNyN2dlbTlwbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/pGVrRLHRzoRcQ/giphy.gif" width="100%"/>
+</td>
+<td>
 
 I'm a Cybersecurity Engineering student focused on **Security Operations, Detection Engineering, and Threat Hunting**. My work centers on building production-style SOC environments end to end — log source engineering, correlation logic, enterprise dashboards, and automated alerting — rather than isolated tutorials or checklist projects.
 
 I treat security like a software engineering discipline: rigorous architecture, measurable performance, and documentation that another engineer could actually pick up and run with. Alongside blue-team work, I build full-stack and AI-integrated applications, and I use LLM tooling as a first-class part of the modern security engineer's workflow — from prompt-driven automation to natural-language SOC operations.
+
+</td>
+</tr>
+</table>
 
 
 ---
