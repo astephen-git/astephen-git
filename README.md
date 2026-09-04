@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8a2be2&height=180&section=header&text=Stephen%20A&fontSize=40&fontColor=E8DFFF&animation=fadeIn&fontAlignY=35&" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
 
 <picture>
